@@ -1,0 +1,2 @@
+# ShinySMP
+The Official ShinySMP
